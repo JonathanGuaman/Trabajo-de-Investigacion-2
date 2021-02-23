@@ -10,13 +10,20 @@ Circuito en serie; Circuito en paralelo; Ciruito en serie-paralelo; Temas Especi
 
 - Para el respectivo analisis de los circuitos RC en la cual va a implicar usar unmeros complejos, en si mismo el uso de capasitores, condensadores, resistores debemos usar el siguiente analisis de los circuitos electricos RC:
 
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-2/blob/main/Marco%20Teorico/MarcoTeorico%201.png)
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-2/blob/main/Marco%20Teorico/MarcoTeorico%202.png)
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-2/blob/main/Marco%20Teorico/MarcoTeorico%203.png)
+
 
 ## Diagramas:
 
 - Impedancia del circuito Rc en serie:
 
 
-![](
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-2/blob/main/Marco%20Teorico/MarcoTeorico%204.png)
+
 
 Figura 1.1
 
@@ -25,14 +32,15 @@ Figura 1.1
 
 - Ley de Ohm para el uso de Impedancias en serie:
 
-![](
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-2/blob/main/Marco%20Teorico/MarcoTeorico%204.1.png)
 
 Figura 2.1
 
 
 - Impedancias en circuitos RC en paralelo:
 
-![](
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-2/blob/main/Marco%20Teorico/MarcoTeorico%205.png)
 
 Figura 3.1
 
@@ -40,14 +48,14 @@ Figura 3.1
 
 - Ley de Ohm para el uso de impedancias en paralelo:
 
-![](
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-2/blob/main/Marco%20Teorico/MarcoTeorico%205.1.png)
 
 Figura 4.1
 
 
 ## Explicacion:
 
-
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-2/blob/main/Anexos/Resolucion.pdf)
 
 
 ## Conclusion:
@@ -57,11 +65,6 @@ Figura 4.1
 - Podremos encontrar y localiza fallas mediante la aplicacion del dicho tema tratado por la cual necesitaremos mas ejemplos diversos con respecto con la localizacion de fallas.
 
 
-
-
-## Articulo:
-
-![](
 
 ## Bibliografia:
 
