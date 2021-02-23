@@ -53,9 +53,7 @@ Figura 3.1
 Figura 4.1
 
 
-## Explicacion:
 
-![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-2/blob/main/Anexos/Resolucion.pdf)
 
 
 ## Conclusion:
