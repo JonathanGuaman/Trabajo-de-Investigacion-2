@@ -16,6 +16,8 @@ Circuito en serie; Circuito en paralelo; Ciruito en serie-paralelo; Temas Especi
 - Impedancia del circuito Rc en serie:
 
 
+![](
+
 Figura 1.1
 
 
@@ -23,13 +25,14 @@ Figura 1.1
 
 - Ley de Ohm para el uso de Impedancias en serie:
 
-
+![](
 
 Figura 2.1
 
 
 - Impedancias en circuitos RC en paralelo:
 
+![](
 
 Figura 3.1
 
@@ -37,6 +40,7 @@ Figura 3.1
 
 - Ley de Ohm para el uso de impedancias en paralelo:
 
+![](
 
 Figura 4.1
 
@@ -57,7 +61,7 @@ Figura 4.1
 
 ## Articulo:
 
-
+![](
 
 ## Bibliografia:
 
